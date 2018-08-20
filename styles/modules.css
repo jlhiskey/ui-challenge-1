@@ -1,0 +1,269 @@
+/* Mobile */
+@media only screen and (max-width: 768px) {
+
+body { 
+    max-width: 768px;
+    min-width: 480px;
+    position: relative;
+  text-align: center;
+  
+  width: 100%;
+  height:100%;
+  margin: 0 auto;
+  }
+
+header {
+  position: relative;
+  text-align: center;
+  
+  width: 100%;
+  height:100%;
+  margin: 0 auto;
+}
+
+section {
+  position: relative;
+  text-align: center;
+  
+  width: 100%;
+  height:100%;
+  margin: 0 auto;
+  vertical-align: middle;
+}
+
+.a {
+  width: 479px;
+  height: 74px;
+    float: top;
+  line-height: 75px;
+  
+}
+
+.b {
+  width: 479px;
+  height: 149px;
+  float: top;
+  line-height: 150px;
+}
+
+.c {
+  width: 479px;
+  height: 124px;
+  float: top;
+  line-height: 125px;
+}
+
+.d {
+  width: 479px;
+  height: 124px;
+  float: top;
+  line-height: 125px;
+}
+
+hr {
+  color: white;
+}
+
+.efhg-container {
+  position: relative;
+  text-align: center;
+  
+  width: 10%;
+  height:100%;
+  margin: 0 auto;
+  margin: 0;
+  position: relative;
+  float: top;
+}
+
+.e {
+  width: 239px;
+  height: 249px;
+  float: left;
+  position: relative;
+  line-height: 250px;
+}
+
+.f {
+  width: 239px;
+  height: 249px;
+  float: left;
+  position: relative;
+  line-height: 250px;
+}
+
+.g {
+  width: 239px;
+  height: 249px;
+  float: left;
+  position: relative;
+  line-height: 250px;
+}
+
+.h {
+  width: 239px;
+  height: 249px;
+  float: left;
+  position: relative;
+  line-height: 250px;
+}
+
+.i {
+  width: 479px;
+  height: 79px;
+  float: bottom;
+  line-height: 60px;
+}
+hr {
+  display: hidden;
+  height: 1px;
+  border: hidden;
+  border-top: 0px solid #ccc;
+  margin: 1em 0;
+  padding: 0; 
+}
+.a .b .c .d .f .h .i {
+    border-right: 10px solid black;
+}
+}
+/* Desktop */
+@media only screen and (min-width: 768px) {
+
+  body { 
+      max-width: 960px;
+      min-width: 768px;
+      position: relative;
+      text-align: center;
+      text-anchor: middle;
+      
+      width: 100%;
+      height:100%;
+      margin: 0 auto;
+      
+      }
+  hr {
+    display: none;
+  }
+
+  header {
+    position: relative;
+    text-align: center;
+    
+    width: 100%;
+    height:100%;
+    margin: 0 auto;
+  }
+  
+  section {
+    position: relative;
+    text-align: center;
+    
+    width: 100%;
+    height:100%;
+    margin: 0 auto;
+    vertical-align: middle;
+  }
+  
+     
+  .a {
+    width: 959px;
+    height: 99px;
+    border: .1px;
+    border-color: black;
+    float: top;
+    line-height: 100px; 
+
+    
+    
+  }
+  
+  .b {
+    width: 199px;
+    height: 599px;
+    float: left;
+    line-height: 600px;
+  }
+  .cd-container {
+    position: relative;
+    text-align: center;
+    
+    width: 760px;
+    height:200px;
+    margin: 0 auto;
+    margin: 0;
+    position: relative;
+    margin-left: 200px;
+    line-height: 200px;
+
+  }
+  .c {
+    width: 379px;
+    height: 199px;
+    float: left;
+    
+  }
+  
+  .d {
+    width: 379px;
+    height: 199px;
+    float: left;
+    
+  }
+  
+  
+  .efhg-container {
+    position: relative;
+    
+    width: 100%;
+    height:100%;
+    margin: 0 auto;
+    margin: 0;
+    position: relative;
+    
+  }
+  
+  .e {
+    width: 189px;
+    height: 249px;
+    float: left;
+    position: relative;
+    line-height: 250px;
+  }
+  
+  .f {
+    width: 189px;
+    height: 249px;
+    float: left;
+    position: relative;
+    line-height: 250px;
+  }
+  
+  .g {
+    width: 189px;
+    height: 249px;
+    float: left;
+    position: relative;
+    line-height: 250px;
+  }
+  
+  .h {
+    width: 189px;
+    height: 249px;
+    float: left;
+    position: relative;
+    line-height: 250px;
+  }
+  footer {
+    width: 100%;
+    height: 100%;
+  }
+  .i {
+    width: 759px;
+    height: 149px;
+    position: relative;
+    margin-top: -154px;
+    margin-left: 200px;
+    line-height: 149px;
+
+  }
+}  
